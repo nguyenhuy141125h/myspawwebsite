@@ -1667,6 +1667,10 @@ body.menu-open {
   border: 2px solid rgba(255, 255, 255, 0.25);
 }
 
+.btn-light:hover{
+  background: var(--secondary);
+}
+
 .btn-ghost {
   background: rgba(31, 18, 112, 0.2);
   border: 2px solid rgba(178, 164, 187, 0.35);
